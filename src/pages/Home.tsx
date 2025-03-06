@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default stamp image path
-const DEFAULT_IMAGE = "/default-stamp.jpeg";
+const DEFAULT_IMAGE = "/default-stamp.jfif";
 
 // Default analysis for the stamp
 const DEFAULT_ANALYSIS = `1. Stamp Identification:
